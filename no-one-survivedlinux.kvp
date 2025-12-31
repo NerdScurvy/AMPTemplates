@@ -29,7 +29,7 @@ App.RootDir=./no-one-survivedlinux/
 App.BaseDirectory=./no-one-survivedlinux/2329680/
 App.SteamWorkshopDownloadLocation=
 App.ExecutableLinux=WRSHServer
-App.WorkingDir=2329680
+App.WorkingDir=2329680/
 App.LinuxCommandLineArgs=
 App.CommandLineArgs=-server -log -nullrhi -nosound -Port={{$GamePort}} -QueryPort={{$QueryPort}} -MultiHome={{$ApplicationIPBinding}}
 App.AppSettings={}
