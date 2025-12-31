@@ -4,6 +4,7 @@ Meta.OS=Linux
 Meta.AarchSupport=NotSupported
 Meta.Arch=x86_64
 Meta.Author=NerdScurvy
+Meta.AppModules=GenericModule
 Meta.URL=https://store.steampowered.com/app/1963370/No_One_Survived/
 Meta.DisplayImageSource=steam:1963370
 Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.Ports.$QueryPort}
