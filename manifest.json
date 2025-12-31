@@ -1,0 +1,9 @@
+{
+  "id": "nerdscurvy-templates",
+  "name": "NerdScurvy's AMP Templates",
+  "author": "NerdScurvy",
+  "url": "https://github.com/NerdScurvy/AMPTemplates",
+  "description": "Custom AMP game server templates",
+  "prefix": "NerdScurvy",
+  "origin": "https://github.com/NerdScurvy/AMPTemplates.git"
+}
